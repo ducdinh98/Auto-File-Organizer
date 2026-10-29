@@ -1,0 +1,17 @@
+{
+    "watched_directory": "",
+    "auto_mode": false,
+    "autostart_with_windows": false,
+    "minimize_to_tray_on_close": false,
+    "match_existing_folders": false,
+    "use_accent_names": true,
+    "recursive": false,
+    "enable_ai": false,
+    "ai_engine": "offline",
+    "gemini_api_key": "",
+    "ai_categorize_video": true,
+    "enable_device_categorize": true,
+    "enable_lighting_categorize": false,
+    "enable_focal_categorize": false,
+    "enable_photo_meta": true
+}

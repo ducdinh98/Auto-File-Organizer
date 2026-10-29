@@ -1,0 +1,55 @@
+========================================================================
+   PHẦN MỀM TỰ ĐỘNG SẮP XẾP FILE VÀO THƯ MỤC CON (BẢN PORTABLE)
+   Auto File Organizer - Standalone Portable Edition
+========================================================================
+
+1. BẢN PORTABLE LÀ GÌ?
+------------------------------------------------------------------------
+- Đây là phiên bản độc lập (Portable), KHÔNG CẦN CÀI ĐẶT.
+- Đã được tích hợp đầy đủ môi trường runtime, thư viện và mô hình AI.
+- Bạn có thể copy thư mục này hoặc file "SapXepFile.exe" vào USB,
+  ổ cứng di động, hoặc gửi qua Zalo / Google Drive / Email sang máy tính
+  Windows khác (Windows 10, Windows 11 64-bit) và mở lên chạy ngay,
+  hoàn toàn KHÔNG cần cài Python hay bất kỳ phần mềm hỗ trợ nào.
+
+2. CÁCH SỬ DỤNG
+------------------------------------------------------------------------
+Bước 1: Nhấp đúp vào file "SapXepFile.exe" để mở giao diện.
+Bước 2: Bấm nút "📁 Chọn Thư Mục..." và chọn thư mục mẹ cần sắp xếp (ví dụ thư mục test, thư mục Downloads...).
+Bước 3: Chọn chế độ bạn muốn:
+  - CHẾ ĐỘ MẶC ĐỊNH (Chuẩn): Bấm "🚀 SẮP XẾP FILE NGAY" để gom file theo
+    nhóm chuẩn (Tài Liệu, Hình Ảnh, Video, Âm Thanh, Nén & Cài Đặt, Code, Khác).
+  - TÙY CHỌN 1 (THIẾT BỊ & THÔNG SỐ ẢNH): Gạt bật công tắc
+    "📱 PHÂN LOẠI ẢNH THEO THIẾT BỊ CHỤP (iPhone, Samsung, Sony, Canon...)"
+    để gom ảnh vào thư mục riêng mang tên máy ảnh/điện thoại (vd: "iPhone 18 Pro Max").
+    + Tích chọn "☀️ Xếp ảnh theo Điều Kiện Ánh Sáng": Tự động chia thư mục "Đủ Sáng" và "Thiếu Sáng".
+    + Tích chọn "🔭 Xếp ảnh theo Tiêu Cự": Tự động chia theo "24mm (Góc Rộng)", "77mm (Tele)"...
+    * TÍNH NĂNG THÔNG MINH NHẬN DIỆN CÂY THƯ MỤC: Nếu bạn đã chia ảnh vào
+      "iPhone 18 Pro Max/Đủ Sáng", sau đó chọn thư mục "Đủ Sáng" và lọc theo Tiêu Cự,
+      phần mềm sẽ CHỈ TẠO thư mục tiêu cự ngay trong thư mục "Đủ Sáng" đó chứ không
+      tạo lặp lại cấu trúc cha từ đầu!
+  - TÙY CHỌN 2 (AI NỘI DUNG): Gạt bật "🔍 TÙY CHỌN NÂNG CAO: BẬT AI..." nếu muốn
+    nhận diện nội dung ảnh (Người & Chân Dung, Xe Cộ, Động Vật, Phong Cảnh, Đồ Ăn...).
+Bước 4: Bấm "🚀 SẮP XẾP FILE NGAY" để ứng dụng thực hiện.
+
+3. CHẾ ĐỘ TỰ ĐỘNG THỜI GIAN THỰC (AUTO-WATCH MODE)
+------------------------------------------------------------------------
+- Gạt bật công tắc "⚡ BẬT CHẾ ĐỘ TỰ ĐỘNG THEO DÕI & SẮP XẾP".
+- Kể từ lúc này, bất kỳ file nào bạn copy hoặc tải về thư mục mẹ đã chọn,
+  phần mềm sẽ TỰ ĐỘNG chuyển file vào đúng thư mục con tương ứng ngay lập tức!
+- Có thể tích chọn:
+  + "🚀 Khởi động cùng Windows": Tự động chạy ngầm khi bật máy tính.
+  + "🔽 Thu nhỏ xuống khay hệ thống khi tắt cửa sổ": Ẩn xuống góc phải màn hình
+    (System Tray) để tiếp tục canh chừng file mà không vướng thanh tác vụ.
+
+4. CÁC TÍNH NĂNG NỔI BẬT KHÁC
+------------------------------------------------------------------------
+- Đọc siêu dữ liệu ảnh chuyên nghiệp (EXIF APEX Brightness, 35mm Equivalent Focal Length).
+- Đo sáng điểm ảnh thông minh nếu ảnh bị mất EXIF (đảm bảo 100% ảnh đều được phân tích ánh sáng).
+- Đọc mượt mà định dạng ảnh iPhone (.HEIC / .HEIF) và file ảnh RAW máy ảnh (.DNG, .CR2, .NEF, .ARW).
+- Khớp thông minh: Tự động gom vào thư mục có sẵn nếu người dùng đã tạo trước.
+- An toàn tuyệt đối: Tự động đổi tên "file (1).ext" nếu trùng tên, không ghi đè dữ liệu.
+- AI đa tầng: Có sẵn Offline AI và Cloud Gemini có tự động luân chuyển model (Auto-Failover).
+
+========================================================================
+Chúc bạn có một không gian lưu trữ gọn gàng và ngăn nắp!
